@@ -14,3 +14,6 @@ git branch xxx
 git checkout xxx
 git reset
 git diff
+git branch 本地分支
+git branch -r 遠端分支
+git branch -a 所有分支
